@@ -1,0 +1,16 @@
+{
+  "timestamp": "2026-03-12T14:40:20.039900",
+  "location": {"city": "San Francisco", "latitude": 37.7749, "longitude": -122.4194},
+  "alerts": [
+    "Event: Heat Advisory\nArea: San Diego County Coastal Areas; San Bernardino and Riverside County Valleys-The Inland Empire; San Diego County Inland Valleys; Orange County Coastal; Orange County Inland\nSeverity: Moderate\nDescription: * WHAT...High temperatures from the low to mid 80s near the coast\nand low to mid 90s for the valleys and inland Orange County\nexpected....",
+    "Event: Heat Advisory\nArea: San Luis Obispo County Beaches; San Luis Obispo County Inland Central Coast; Santa Lucia Mountains; Santa Barbara County Central Coast Beaches; Santa Barbara County Inland Central Coast; Santa Ynez Valley; Santa Barbara County Southwestern Coast; Santa Barbara County Southeastern Coast; Santa Ynez Mountains Western Range; Santa Ynez Mountains Eastern Range\nSeverity: Moderate\nDescription: * WHAT...Temperatures of 85 to 95 expected....",
+    "Event: Heat Advisory\nArea: Santa Clarita Valley; Ventura County Beaches; Ventura County Inland Coast; Lake Casitas; Ojai Valley; Central Ventura County Valleys; Malibu Coast; Los Angeles County Beaches; Palos Verdes Hills; Los Angeles County Inland Coast including Downtown Los Angeles; Western Santa Monica Mountains Recreational Area; Eastern Santa Monica Mountains Recreational Area; Calabasas and Agoura Hills; Western San Fernando Valley; Eastern San Fernando Valley; Southeastern Ventura County Valleys; Santa Susana Mountains; Los Angeles County San Gabriel Valley\nSeverity: Moderate\nDescription: * WHAT...Widespread temperatures of 90 to 100 expected...."
+  ],
+  "forecast": [
+    "Tonight:\nTemperature: 52F\nWind: 3 to 7 mph WNW\nForecast: Mostly clear, with a low around 52. West northwest wind 3 to 7 mph.",
+    "Thursday:\nTemperature: 75F\nWind: 2 to 7 mph NW\nForecast: Sunny. High near 75, with temperatures falling to around 73 in the afternoon. Northwest wind 2 to 7 mph.",
+    "Thursday Night:\nTemperature: 52F\nWind: 3 to 7 mph W\nForecast: Partly cloudy, with a low around 52. West wind 3 to 7 mph.",
+    "Friday:\nTemperature: 72F\nWind: 3 to 8 mph WNW\nForecast: Mostly sunny, with a high near 72. West northwest wind 3 to 8 mph.",
+    "Friday Night:\nTemperature: 53F\nWind: 8 mph WNW\nForecast: Mostly cloudy, with a low around 53. West northwest wind around 8 mph."
+  ]
+}
